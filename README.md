@@ -39,12 +39,12 @@ The program highlights the trade-offs between these data structures in terms of 
 ---
 
 ## **Project Files**
-  Project4.java: Main application logic.
-  HipHopLyrics.java: Class to represent and store data for each lyrics line.
-  LinkedListwHHLSort.java: Custom implementation of a linked list with sorting capabilities.
-  ChainedHashTable.java: Hash table implementation with chaining for collision handling.
-  HipHopLyricsBinarySearchTree.java: Binary search tree implementation for lyrics data.
-  genius_hip_hop_lyrics.csv: Sample data file for testing.
+  - Project4.java: Main application logic.
+  - HipHopLyrics.java: Class to represent and store data for each lyrics line.
+  - LinkedListwHHLSort.java: Custom implementation of a linked list with sorting capabilities.
+  - ChainedHashTable.java: Hash table implementation with chaining for collision handling.
+  - HipHopLyricsBinarySearchTree.java: Binary search tree implementation for lyrics data.
+  - genius_hip_hop_lyrics.csv: Sample data file for testing.
 
 
 ## **How to Run**
